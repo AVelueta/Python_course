@@ -4,7 +4,7 @@ import string
 name = string
 lastname = string
 
-
+# valida nombre y apellido
 name = input("What is your name?: ")
 
 if name == "Alvaro":
