@@ -1,5 +1,5 @@
 ##[FOR] nested loop ##
-
+##developed by Alvaro Velueta
 from itertools import count
 from operator import index
 from typing import Iterator
