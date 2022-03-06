@@ -1,4 +1,5 @@
-myStr = "Alvaro Velueta"
+# seond last name added
+myStr = "Alvaro Velueta Chan"
 
 # imprime el valor de la variable string 
 print("My name is " + myStr)
